@@ -7,7 +7,7 @@ Analyzed customer participation across various marketing campaigns, highlighting
 #### United States Export Summary
 Presented an interactive overview of U.S. export data, showcasing export values by category, destination countries, and yearly trends to provide insights into trade performance.
 
-#### U.S. Major Import Countries (2011–2023)
+#### U.S. Major Import Countries (2009–2024)
 Explored the top import partners of the United States over a 12-year period, identifying key countries and shifts in import patterns, enabling trade dependency and policy analysis.
 
 #### Bank Transaction Analysis
